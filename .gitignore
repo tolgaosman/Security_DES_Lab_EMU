@@ -1,0 +1,17 @@
+# Compiled binaries and object files
+*.exe
+*.o
+*.obj
+*.out
+
+# IDE and language server local configs
+.vscode/
+.clangd
+compile_commands.json
+
+# Local lab documents, reports, archives, and starter templates
+*.docx
+*.pdf
+*.zip
+original_starter/
+
